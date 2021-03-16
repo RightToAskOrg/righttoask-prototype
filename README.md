@@ -1,2 +1,4 @@
 # righttoask-prototype
-Prototype of RightToAsk.  Useful for UI testing but without privacy &amp; security features.
+Prototype of RightToAsk - coming soon.  
+
+Intended for UI testing but without privacy &amp; security features.
